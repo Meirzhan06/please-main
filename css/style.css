@@ -50,6 +50,7 @@ button:hover{
     height: 420px;
     background-color: #fff;
     border-radius: 3px; 
+    display: block;
 }
 .tabs{
     height: 70px;
