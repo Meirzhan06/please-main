@@ -43,8 +43,8 @@ button:hover{
     .hide i{
         font-size: 10px;
     }
-    .resetpass p{
-        margin-top: 15px;
+    .content{
+        padding-bottom: 15px;
     }
 }
 
